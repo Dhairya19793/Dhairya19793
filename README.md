@@ -21,6 +21,29 @@ Incoming CS student at **Cal Poly San Luis Obispo (Fall 2026)**, building across
 
 ---
 
+## 🚀 Projects
+
+**StudyBuddy** — Cal Poly CodeBox Hackathon · Flask · Supabase · 2026 · [Live Demo](https://studybuddy-calpoly.bolt.host/)
+- Built a full-stack study coordination platform matching students into private Study Pods by course, topic, availability, and study style, using Flask for matching logic and Supabase for real-time, privacy-protected data.
+- Presented at the Cal Poly CodeBox Hackathon; shipped a deployed web app spanning Course Hubs, Study Requests, and a Solo Workspace.
+
+**Jarvis — Offline AI Voice Assistant** — Python · Whisper · Ollama (Llama 3)
+- Built an offline voice assistant integrating speech recognition, conversational AI, and text-to-speech, processed locally for privacy and responsiveness.
+- Iterated through multiple development/testing cycles for reliable, privacy-preserving local performance.
+
+**Study Planner — CS50x Capstone (HarvardX)** — Python · Flask · SQLite
+- Designed a full-stack study planning tool with relational data modeling, parameterized queries, and ACID-compliant transactions for data integrity.
+- Built the application from concept through deployment, covering the full software development lifecycle (SDLC).
+
+**Food Ordering Portal** — Python · MySQL
+- Defined system requirements for admin/customer workflows, then designed a relational database schema and built a console-based CRUD application.
+- Applied parameterized queries and consistent coding standards to ensure data integrity throughout.
+
+**Tangent Galvanometer Investigation** — Experimental Physics
+- Estimated Earth's horizontal magnetic field and reduction factor K through careful experimental design, repeated trials, and data analysis.
+
+---
+
 ## 💼 Experience
 
 **AI in Healthcare Intern** — Pharmint Pte Ltd · Remote (Singapore) · 2026
@@ -50,29 +73,6 @@ Incoming CS student at **Cal Poly San Luis Obispo (Fall 2026)**, building across
 **Python Intern** — BizzAppDev Systems Pvt. Ltd. · Remote (India) · 2023
 - Contributed to backend development tasks using Python, PostgreSQL, and XML in a live development environment.
 - Practiced coding standards and version-controlled workflows on Linux, supporting ongoing software maintenance tasks.
-
----
-
-## 🚀 Projects
-
-**StudyBuddy** — Cal Poly CodeBox Hackathon · Flask · Supabase · 2026 · [Live Demo](https://studybuddy-calpoly.bolt.host/)
-- Built a full-stack study coordination platform matching students into private Study Pods by course, topic, availability, and study style, using Flask for matching logic and Supabase for real-time, privacy-protected data.
-- Presented at the Cal Poly CodeBox Hackathon; shipped a deployed web app spanning Course Hubs, Study Requests, and a Solo Workspace.
-
-**Jarvis — Offline AI Voice Assistant** — Python · Whisper · Ollama (Llama 3)
-- Built an offline voice assistant integrating speech recognition, conversational AI, and text-to-speech, processed locally for privacy and responsiveness.
-- Iterated through multiple development/testing cycles for reliable, privacy-preserving local performance.
-
-**Study Planner — CS50x Capstone (HarvardX)** — Python · Flask · SQLite
-- Designed a full-stack study planning tool with relational data modeling, parameterized queries, and ACID-compliant transactions for data integrity.
-- Built the application from concept through deployment, covering the full software development lifecycle (SDLC).
-
-**Food Ordering Portal** — Python · MySQL
-- Defined system requirements for admin/customer workflows, then designed a relational database schema and built a console-based CRUD application.
-- Applied parameterized queries and consistent coding standards to ensure data integrity throughout.
-
-**Tangent Galvanometer Investigation** — Experimental Physics
-- Estimated Earth's horizontal magnetic field and reduction factor K through careful experimental design, repeated trials, and data analysis.
 
 ---
 
