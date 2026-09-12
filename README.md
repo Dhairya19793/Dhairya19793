@@ -79,7 +79,7 @@ Incoming CS student at **Cal Poly San Luis Obispo (Fall 2026)**, building across
 ## 🎓 Education
 
 **California Polytechnic State University, San Luis Obispo**
-B.S. Computer Science · Incoming Freshman, enrolling Fall 2026 · Expected June 2030
+B.S. Computer Science · Expected June 2030
 
 ---
 
