@@ -17,7 +17,7 @@ Building software, AI/ML, and data systems — from applied ML pipelines to full
 
 ## About
 
-Incoming CS student at **Cal Poly San Luis Obispo (Fall 2026)**, building across software engineering, applied machine learning, data analytics, and backend systems. Six internships across healthcare AI, quantitative research, finance, clinical operations, and backend development, plus a published research paper on household energy analytics. Shipped **StudyBuddy** (full-stack Flask/Supabase) at the Cal Poly CodeBox Hackathon and **Jarvis**, an offline AI voice assistant. Hands-on experience spans India, Singapore, the UK, and the UAE. CPT/F-1 eligible.
+Computer Science student at **Cal Poly San Luis Obispo (Fall 2026)**, building across software engineering, applied machine learning, data analytics, and backend systems. Six internships across healthcare AI, quantitative research, finance, clinical operations, and backend development, plus a published research paper on household energy analytics. Shipped **StudyBuddy** (full-stack Flask/Supabase) at the Cal Poly CodeBox Hackathon and **Jarvis**, an offline AI voice assistant. Hands-on experience spans India, Singapore, the UK, and the UAE. CPT/F-1 eligible.
 
 ---
 
