@@ -2,7 +2,7 @@
 
 # Hi, I'm Dhairya Prajapati 👋
 
-### Incoming Computer Science Student · Cal Poly San Luis Obispo · Class of 2030
+### Computer Science Student · Cal Poly San Luis Obispo · Class of 2030
 
 Building software, AI/ML, and data systems — from applied ML pipelines to full-stack platforms.
 
