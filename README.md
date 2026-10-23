@@ -17,7 +17,7 @@ Building software, AI/ML, and data systems, from applied ML pipelines to full-st
 
 ## About
 
-First-year Computer Science student at **Cal Poly San Luis Obispo**, building across software engineering, applied machine learning, data analytics, and backend systems. Experience spans healthcare AI, quantitative research, finance, clinical operations, and backend development, plus a published research paper on household energy analytics. Shipped **StudyBuddy** (full-stack Flask/Supabase) at the Cal Poly CodeBox Hackathon and **Jarvis**, an offline AI voice assistant. Hands-on experience across India, Singapore, and the UAE, with remote collaboration on UK-headquartered teams. **Available Summer 2027 | F-1 Student.**
+First-year Computer Science student at **Cal Poly San Luis Obispo**, building across software engineering, applied machine learning, data analytics, and backend systems. Experience spans healthcare AI, quantitative research, finance, clinical operations, and backend development, plus a published research paper on household energy analytics. Shipped **StudyBuddy** (full-stack Flask/Supabase) at the Cal Poly CodeBox Hackathon and **Jarvis**, an offline AI voice assistant. Hands-on experience across India, Singapore, and the UAE, with remote collaboration on UK-headquartered teams. **Available Summer 2027 | CPT-Eligible F-1 Student.**
 
 ---
 
@@ -62,7 +62,7 @@ First-year Computer Science student at **Cal Poly San Luis Obispo**, building ac
 - Completed a virtual job simulation, applying web scraping and customer profiling in Python to segment customers for personalized marketing decisions.
 - Built UX visualizations to communicate customer insights, following a structured project workflow from data collection through presentation.
 
-**Finance & Banking Intern** | Grey Sells · Dubai, UAE · 2024
+**Finance & Banking Intern** | Grey Sells · Dubai, UAE · Jul 2024
 - Shadowed banking professionals to learn corporate finance, KYC, and valuation processes over a two-week internship.
 - Assisted with basic financial modelling exercises, building foundational understanding of valuation techniques.
 
@@ -78,7 +78,7 @@ First-year Computer Science student at **Cal Poly San Luis Obispo**, building ac
 
 ## 🎓 Education
 
-**California Polytechnic State University, San Luis Obispo** · Sep 2026 - Jun 2030
+**California Polytechnic State University, San Luis Obispo** · Aug 2026 - May 2030
 B.S. Computer Science | First-Year Computer Science Student
 *Pre-College Coursework (CBSE, India/UAE): Computer Science, Mathematics, Physics, Chemistry, English | Harvard CS50x: Introduction to Computer Science*
 
@@ -119,9 +119,10 @@ B.S. Computer Science | First-Year Computer Science Student
 
 **Languages:** Python, Java, C, SQL, JavaScript, Scratch | **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
 **Software Development:** Software design, coding standards, debugging, testing, software maintenance, technical documentation, version control (Git)
-**Frameworks & Backend:** Flask, Supabase, SQLite, MySQL, PostgreSQL, REST APIs
-**AI / ML:** pandas, NumPy, scikit-learn, EDA, regression, classification, time series forecasting, relational data modeling
-**Tools & Platforms:** Git, GitHub, Linux, Excel, Access, Tableau (basic), R (basic), cloud computing
+**Frameworks & Backend:** Flask, Supabase, SQLite, MySQL, PostgreSQL, REST APIs, relational data modeling
+**AI / ML:** pandas, NumPy, scikit-learn, statsmodels, EDA, regression, classification, time series forecasting
+**Quantitative & Finance:** Financial Modeling, Valuation, Statistical Analysis, Business Finance Foundations
+**Tools & Platforms:** Git, GitHub, Linux, Excel, Access, Tableau (basic), R (basic), Whisper, Ollama
 **Spoken Languages:** English (Fluent), Hindi (Fluent), Gujarati (Native), Arabic (Conversational)
 
 ---
